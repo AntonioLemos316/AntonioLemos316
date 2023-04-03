@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @AntonioLemos316
 - 👀 I’m interested in learning and work!
-- 🌱 I’m currently learning HTML5, CSS3, BOOTSTRAP and JS.
+- 🌱 I’m currently learning HTML5, CSS3, BOOTSTRAP, JS and PHP.
 
 <!---
 AntonioLemos316/AntonioLemos316 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
