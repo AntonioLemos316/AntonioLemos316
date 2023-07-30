@@ -5,7 +5,7 @@
 ## Skills
 * Focado em ***JavaScript*** e ***React***.
 * Futuramente ***Node.JS*** e ***MongoDB***
-* Conhecimento básico em PHP, Java, Bootstrap, MySQL.
+* Conhecimento básico em PHP, Java, Bootstrap, MySQL e MongoDB.
 
 ## Estudo
 * Minha primeira gradução em TI foi, ***Instalador e Reparador de Redes*** no Senac/PE em 2020.
