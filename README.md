@@ -9,7 +9,7 @@
 
 ## Estudo
 * Minha primeira gradução em TI foi, ***Instalador e Reparador de Redes*** no Senac/PE em 2020.
-* Atualmente na minha segunda Graduação em TI, cursando ***Desenvolvimento de Sistemas*** no Grau Tecnico/PE, turma da noite.
+* Atualmente na minha segunda Graduação em TI, estou cursando ***Desenvolvimento de Sistemas*** no Grau Tecnico/PE, turma da noite.
 * Principais assuntos estudados em DSI até o momento, Lógica de Programação, Introdução a Banco de Dados, Arquitetura de Software, Análise e Projeto de Sistemas, Programação Front-End Web, Desenvolvimento Orientado a Objetos, Banco de Dados 1, Empreendedorismo, Banco de Dados 2, Desenvolvimento Desktop.
 
 
