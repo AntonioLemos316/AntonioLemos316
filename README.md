@@ -3,7 +3,7 @@
 ## *Full Stack Developer*
 
 ## Skills
-* Focado em ***JavaScript*** e ***React***.
+* Focado em ***React*** e ***Jest / React Testing Library***.
 * Futuramente ***Node.JS*** e ***MongoDB***
 * Conhecimento básico em PHP, Java, Bootstrap, MySQL e MongoDB.
 
