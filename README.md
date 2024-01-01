@@ -3,9 +3,9 @@
 ## *Full Stack Developer*
 
 ## Skills
-* Focado em ***React*** e ***Jest / React Testing Library***.
-* Futuramente ***Node.JS*** e ***MongoDB***
-* Conhecimento básico em PHP, Java, Bootstrap, MySQL e MongoDB.
+- Com foco atualmente no back-end, Node.js | Express e MongoDB | Mongoose.
+- Futuramente no front-end voltarei a estudar, React.js. 
+- E depois pretendo focar em, TypeScript e Testes.
 
 ## Estudo
 * Minha primeira gradução em TI foi, ***Instalador e Reparador de Redes*** no Senac/PE em 2020.
