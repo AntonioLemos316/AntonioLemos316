@@ -1,24 +1,15 @@
-# *Bem vindo ao meu perfil!* ⚙
+# Seja bem vindo(a)! 
+![AntonioLemos316 GitHub stats](https://github-readme-stats.vercel.app/api?username=antoniolemos316&show_icons=true&theme=transparent)
 
-## *Full Stack Developer* 🧱
+## Estudando e melhorando nas seguintes tecnologias
+![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)<img alt="NodeJS" src="https://img.shields.io/badge/node.js-%2343853D.svg?style=for-the-badge&logo=node-dot-js&logoColor=white"/>![Express.js](https://img.shields.io/badge/express.js-%23404d59.svg?style=for-the-badge&logo=express&logoColor=%2361DAFB)
 
-### Skills 💡
-- Com foco atualmente no back-end, Node.js | Express e MongoDB | Mongoose.
-- Futuramente no front-end voltarei a estudar React.js. 
-- E depois pretendo focar no TypeScript e em Testes.
-  
-### Contato ✋
-* E-mail para contato, antonioreactpro2023@gmail.com
-* Linkedin https://www.linkedin.com/in/antonio-marques-3572b7235/
+## [Contato](https://www.linkedin.com/in/antonio-marques-3572b7235/) 
+![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)
 
-### Estudo 📘
-* Minha primeira gradução em TI foi, ***Instalador e Reparador de Redes*** no Senac/PE em 2020.
-* Atualmente na minha segunda Graduação em TI, estou cursando ***Desenvolvimento de Sistemas*** no Grau Tecnico/PE, turma da noite.
-* Principais assuntos estudados em DSI até o momento, Lógica de Programação, Introdução a Banco de Dados, Arquitetura de Software, Análise e Projeto de Sistemas, Programação Front-End Web, Desenvolvimento Orientado a Objetos, Banco de Dados 1, Empreendedorismo, Banco de Dados 2, Desenvolvimento Desktop.
+## Linguagens mais utilizadas do meu github
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=antoniolemos316&layout=pie)](https://github.com/antoniolemos316/github-readme-stats)  
 
-### Localização 🌎
-* Atualmente moro em, São Lourenço Da Mata/PE.
-* Focado em mudar de área profissional.
 <!---
 AntonioLemos316/AntonioLemos316 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
