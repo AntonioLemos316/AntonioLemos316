@@ -7,7 +7,7 @@
 ## Contato
 [![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/antonio-marques-3572b7235/)
 
-## Linguagens mais utilizadas do meu github
+## Linguagens mais utilizadas
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=antoniolemos316&layout=pie)](https://github.com/antoniolemos316/github-readme-stats)  
 
 <!---
